@@ -25,7 +25,6 @@ Usage
 --
 
 ### Arguments
-* `--`
 * `--train`: Train flag to learn the style transfer network
 * `--content-dir`: Content dataset path for learn the style transfer network
 * `--style-dir`: Style dataset path for learn the style transfer network
