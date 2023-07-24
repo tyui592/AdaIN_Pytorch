@@ -5,7 +5,6 @@ Adaptive Instance Normalization
 
 **Reference: [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization, ICCV 2017](https://arxiv.org/abs/1703.06868)**
 
-**Contact**: `Minseong Kim` (tyui592@gmail.com)
 
 Requirements
 --
